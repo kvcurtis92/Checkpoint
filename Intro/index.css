@@ -5,7 +5,7 @@
            -moz-background-size: cover;
            -o-background-size: cover;
            background-size: cover;
-           background-image: url("/Intro/space-background.jpg");
+           background-image: url("./space-background.jpg");
          }
    
    /* Header */
@@ -193,7 +193,7 @@
            -moz-background-size: cover;
            -o-background-size: cover;
            background-size: cover;
-           background-image: url("/Intro/space-background.jpg")
+           background-image: url("./space-background.jpg")
          }
    
    /* Header */
@@ -375,7 +375,7 @@
            -moz-background-size: cover;
            -o-background-size: cover;
            background-size: cover;
-           background-image: url("/Intro/space-background.jpg")
+           background-image: url("./space-background.jpg")
          }
        
        /* Header */
