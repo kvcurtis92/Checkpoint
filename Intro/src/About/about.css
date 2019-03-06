@@ -2,7 +2,7 @@
   (min-width: 992px) {
     html { 
     background-size: auto;
-    background-image: url("/src/About/space-background2\ .jpg");
+    background-image: url("space-background2\ .jpg");
   }
 
   .header {
@@ -68,7 +68,7 @@
 
     html { 
         background-size: auto;
-        background-image: url("/src/About/space-background2\ .jpg");
+        background-image: url("space-background2\ .jpg");
       }
     
       .header {
@@ -139,7 +139,7 @@
 
     html { 
         background-size: auto;
-        background-image: url("/src/About/space-background2\ .jpg");
+        background-image: url("space-background2\ .jpg");
       }
     
     .header {
