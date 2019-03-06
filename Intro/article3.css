@@ -6,7 +6,7 @@
         -moz-background-size: cover;
         -o-background-size: cover;
         background-size: cover;
-        background-image: url("/src/Article3/space-background\ 3.jpg");
+        background-image: url("space-background\ 3.jpg");
       }
     
       .header {
@@ -65,7 +65,7 @@ and (min-width: 576px) {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    background-image: url("/src/Article3/space-background\ 3.jpg");
+    background-image: url("space-background\ 3.jpg");
   }
 
   .header {
@@ -124,7 +124,7 @@ and (min-width: 576px) {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    background-image: url("/src/Article3/space-background\ 3.jpg");
+    background-image: url("space-background\ 3.jpg");
   }
 
   .header {

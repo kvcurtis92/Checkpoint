@@ -7,7 +7,7 @@
       -moz-background-size: cover;
       -o-background-size: cover;
       background-size: cover;
-      background-image: url("/src/Article1/space-background-article1.jpg");
+      background-image: url("space-background-article1.jpg");
     }
 
 
@@ -67,7 +67,7 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  background-image: url("/Article1/space-background-article1.jpg");
+  background-image: url("space-background-article1.jpg");
 }
 
 .header {
@@ -125,7 +125,7 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  background-image: url("/Article1/space-background-article1.jpg");
+  background-image: url("space-background-article1.jpg");
 }
 
 .header {

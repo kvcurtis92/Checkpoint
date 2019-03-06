@@ -5,7 +5,7 @@
         -moz-background-size: cover;
         -o-background-size: cover;
         background-size: cover;
-        background-image: url("/src/Article2/planet-express-background\ 2.jpg");
+        background-image: url("planet-express-background\ 2.jpg");
       }
     
       .header {
@@ -64,7 +64,7 @@ and (min-width: 576px) {
       -moz-background-size: cover;
       -o-background-size: cover;
       background-size: cover;
-      background-image: url("/src/Article2/planet-express-background\ 2.jpg");
+      background-image: url("planet-express-background\ 2.jpg");
     }
   
     .header {
@@ -122,7 +122,7 @@ and (min-width: 300px) {
       -moz-background-size: cover;
       -o-background-size: cover;
       background-size: cover;
-      background-image: url("/src/Article2/planet-express-background\ 2.jpg");
+      background-image: url("planet-express-background\ 2.jpg");
     }
   
     .header {
