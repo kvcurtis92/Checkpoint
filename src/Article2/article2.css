@@ -1,0 +1,173 @@
+@media (min-width: 992px) {
+
+    html { 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        background-image: url("/src/Article2/planet-express-background\ 2.jpg");
+      }
+    
+      .header {
+        display: flex; 
+        flex-direction: column;
+        text-align: center; 
+        justify-content: center; 
+        align-items: center; 
+    }
+     
+      .logo {
+        width:300px;
+        height:300px;
+    }
+    
+        h1 {
+        color: white; 
+        font-size: 80px; 
+        }
+    
+        p {
+        color: white; 
+        font-size: 20px; 
+        }
+    
+        button {
+            background-color:#004475;
+            -moz-border-radius:28px;
+            -webkit-border-radius:28px;
+            border-radius:28px;
+            border:none;
+            cursor:pointer;
+            color:#ffffff;
+            font-family:Trebuchet MS;
+            font-size:20px;
+            padding:25px 37px;
+            text-decoration:none;
+            text-shadow:0px 1px 0px #36752d;
+            width: 300px;
+            margin: 20px; 
+            font-family: 'Roboto Condensed', sans-serif;
+        }
+    
+        a:visited {
+            color: #cab0e5; 
+        }
+    
+      }
+
+@media screen 
+and (max-width: 991px)
+and (min-width: 576px) {
+
+    html { 
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+      background-image: url("/src/Article2/planet-express-background\ 2.jpg");
+    }
+  
+    .header {
+      display: flex; 
+      flex-direction: column;
+      text-align: center; 
+      justify-content: center; 
+      align-items: center; 
+  }
+    
+    .logo {
+      width:200px;
+      height:200px;
+  }
+  
+      h1 {
+      color: white; 
+      font-size: 70px; 
+      }
+  
+      p {
+      color: white; 
+      font-size: 15px; 
+      }
+  
+      button {
+          background-color:#004475;
+          -moz-border-radius:28px;
+          -webkit-border-radius:28px;
+          border-radius:28px;
+          border:none;
+          cursor:pointer;
+          color:#ffffff;
+          font-family:Trebuchet MS;
+          font-size:20px;
+          padding:25px 37px;
+          text-decoration:none;
+          text-shadow:0px 1px 0px #36752d;
+          width: 300px;
+          margin: 20px; 
+          font-family: 'Roboto Condensed', sans-serif;
+      }
+  
+      a:visited {
+          color: #cab0e5; 
+      }
+  
+    }
+
+@media screen 
+and (max-width: 575px)
+and (min-width: 300px) {
+    html { 
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+      background-image: url("/src/Article2/planet-express-background\ 2.jpg");
+    }
+  
+    .header {
+      display: flex; 
+      flex-direction: column;
+      text-align: center; 
+      justify-content: center; 
+      align-items: center; 
+  }
+    
+    .logo {
+      width:200px;
+      height:200px;
+  }
+  
+      h1 {
+      color: white; 
+      font-size: px; 
+      }
+  
+      p {
+      color: white; 
+      font-size: 20px; 
+      }
+  
+      button {
+          background-color:#004475;
+          -moz-border-radius:28px;
+          -webkit-border-radius:28px;
+          border-radius:28px;
+          border:none;
+          cursor:pointer;
+          color:#ffffff;
+          font-family:Trebuchet MS;
+          font-size:20px;
+          padding:25px 37px;
+          text-decoration:none;
+          text-shadow:0px 1px 0px #36752d;
+          width: 300px;
+          margin: 20px; 
+          font-family: 'Roboto Condensed', sans-serif;
+      }
+  
+      a:visited {
+          color: #cab0e5; 
+      }
+
+  }

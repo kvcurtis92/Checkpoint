@@ -1,0 +1,197 @@
+@media screen and 
+  (min-width: 992px) {
+    html { 
+    background-size: auto;
+    background-image: url("/src/About/space-background2\ .jpg");
+  }
+
+  .header {
+    display: flex; 
+    flex-direction: column;
+    text-align: center; 
+    justify-content: center; 
+    align-items: center; 
+    }
+
+    .logo {
+    width: 200px;
+    height: 200px; 
+    }
+
+    h1 {
+        font-size: 50px; 
+        font-family: 'Roboto Condensed', sans-serif;
+        color: white; 
+        text-align: center; 
+    }
+
+    iframe {
+        margin: 30px; 
+        width: 560px;
+        height: 315px; 
+    }
+
+    .description {
+        font-family: 'Roboto Condensed', sans-serif;
+        color: white; 
+        margin-bottom: 40px;
+        width: 800px; 
+    }
+
+    button {
+        background-color:#004475;
+        -moz-border-radius:28px;
+        -webkit-border-radius:28px;
+        border-radius:28px;
+        border:none;
+        cursor:pointer;
+        color:#ffffff;
+        font-family:Trebuchet MS;
+        font-size:30px;
+        padding:25px 37px;
+        text-decoration:none;
+        text-shadow:0px 1px 0px #36752d;
+        width: 300px;
+        margin: 30px; 
+        font-family: 'Roboto Condensed', sans-serif;
+    }
+
+    a:visited {
+        color: #cab0e5; 
+    }
+
+}
+
+@media screen 
+  and (max-width: 991px)
+  and (min-width: 576px) {
+
+    html { 
+        background-size: auto;
+        background-image: url("/src/About/space-background2\ .jpg");
+      }
+    
+      .header {
+        display: flex; 
+        flex-direction: column;
+        text-align: center; 
+        justify-content: center; 
+        align-items: center; 
+    }
+    
+    .logo {
+    width: 200px;
+    height: 200px; 
+    }
+    
+    h1 {
+        font-size: 50px; 
+        font-family: 'Roboto Condensed', sans-serif;
+        color: white; 
+        text-align: center; 
+    }
+    
+    iframe {
+        margin: 30px; 
+        width: 560px;
+        height: 315px; 
+    }
+    
+    .description {
+        font-family: 'Roboto Condensed', sans-serif;
+        color: white; 
+        margin-bottom: 40px;
+        width: 576px; 
+    }
+    
+    button {
+        background-color:#004475;
+        -moz-border-radius:28px;
+        -webkit-border-radius:28px;
+        border-radius:28px;
+        border:none;
+        cursor:pointer;
+        color:#ffffff;
+        font-family:Trebuchet MS;
+        font-size:30px;
+        padding:25px 37px;
+        text-decoration:none;
+        text-shadow:0px 1px 0px #36752d;
+        width: 300px;
+        margin: 30px; 
+        font-family: 'Roboto Condensed', sans-serif;
+    }
+
+    a:visited {
+        color: #cab0e5; 
+    }
+
+    iframe {
+        margin: 25px; 
+        width: 560px;
+        height: 315px; 
+    }
+}
+
+@media screen 
+  and (max-width: 575px)
+  and (min-width: 300px) {
+
+    html { 
+        background-size: auto;
+        background-image: url("/src/About/space-background2\ .jpg");
+      }
+    
+    .header {
+    display: flex; 
+    flex-direction: column;
+    text-align: center; 
+    justify-content: center; 
+    align-items: center; 
+    }
+
+    .logo {
+    width: 200px;
+    height: 200px; 
+    }
+    
+    h1 {
+        font-size: 50px; 
+        font-family: 'Roboto Condensed', sans-serif;
+        color: white; 
+        text-align: center; 
+    }
+    
+    iframe {
+        margin: 30px; 
+    }
+    
+    .description {
+        font-family: 'Roboto Condensed', sans-serif;
+        color: white; 
+        margin-bottom: 40px;
+        width: auto; 
+    }
+    
+    button {
+        background-color:#004475;
+        -moz-border-radius:28px;
+        -webkit-border-radius:28px;
+        border-radius:28px;
+        border:none;
+        cursor:pointer;
+        color:#ffffff;
+        font-family:Trebuchet MS;
+        font-size:20px;
+        padding:25px 37px;
+        text-decoration:none;
+        text-shadow:0px 1px 0px #36752d;
+        width: 200px;
+        margin: 30px; 
+        font-family: 'Roboto Condensed', sans-serif;
+    }
+
+    a:visited {
+        color: #cab0e5; 
+    }
+}
